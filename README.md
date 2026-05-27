@@ -44,7 +44,11 @@ install.packages(c("shiny", "shinydashboard", "bslib", "leaflet",
 shiny::runApp("app.R")
 ```
 
+## Link to the App
+
+[NYC 311 Service Request Analysis Shiny App](https://sophiahuang.shinyapps.io/Final_Project/)
+
 ## Authors
 
-Sophia Huang · Fleishman · Green · Cindy Zheng  
+Sophia Huang · Joseph Fleishman · Emma Green · Cindy Zheng  
 Binghamton University · Spring 2025
